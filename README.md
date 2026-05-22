@@ -2,7 +2,7 @@
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Register No. : 212224040053
 # Name: CHARITHRAKSHI K
-# Date: 12-05-2025
+# Date: 22-05-2026
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
@@ -70,8 +70,8 @@ void yyerror(const char *msg) {
 }
 ~~~
 # OUTPUT
-![terminal 1](https://github.com/user-attachments/assets/7b366c54-5007-4908-8d5b-7b01170054df)
-![terminal 2](https://github.com/user-attachments/assets/c0f79575-1a8e-4699-8c92-2bd5206948a2)
+<img width="858" height="646" alt="image" src="https://github.com/user-attachments/assets/5aa77a5e-75a8-4f37-a842-3bc3cb30a655" />
+
 
 
 # RESULT
